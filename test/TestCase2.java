@@ -18,5 +18,6 @@ public class TestCase2 {
 	//in test-branch not master 
 	//making changes to already staged file
 	//Still i dont get what is Staging
+	// Ha ha  now i get it :) 
 
 }
